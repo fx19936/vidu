@@ -1,0 +1,15 @@
+@media only screen and (max-width: 500px) {
+  .image-wrapper {
+    grid-template-columns: 1fr;
+  }
+}
+
+#header {
+  position: fixed;
+  display: flex;
+  height: 0;
+}
+
+#video {
+  margin: 100px 0 50px 0;
+}
